@@ -7,12 +7,12 @@
 <div align="center">
 My favorite language is Python and outside of programming, I love to lift weights!
 
-* 🌍  I'm based in New York
-* ✉️  You can contact me at [meikenneth321@gmail.com](mailto:meikenneth321@gmail.com)
-* 🚀  I'm currently working on a [Weather Application](https://github.com/kazziken/weather-app)
-* 🧠  I'm learning Java
-* 🤝  I'm open to collaborating on anything!
-* ⚡  I like anchovies on pizza...
+ 🌍  I'm based in New York
+ ✉️  You can contact me at [meikenneth321@gmail.com](mailto:meikenneth321@gmail.com)
+ 🚀  I'm currently working on a [Weather Application](https://github.com/kazziken/weather-app)
+ 🧠  I'm learning Java
+ 🤝  I'm open to collaborating on anything!
+ ⚡  I like anchovies on pizza...
 </div>
 
 <h4 align="center">You can find me:</h3>
@@ -24,7 +24,7 @@ My favorite language is Python and outside of programming, I love to lift weight
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
