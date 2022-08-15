@@ -6,13 +6,14 @@
 
 <div align="center">
 My favorite language is Python and outside of programming, I love to lift weights!
-
+ <ul align="center">
  🌍  I'm based in New York
  ✉️  You can contact me at [meikenneth321@gmail.com](mailto:meikenneth321@gmail.com)
  🚀  I'm currently working on a [Weather Application](https://github.com/kazziken/weather-app)
  🧠  I'm learning Java
  🤝  I'm open to collaborating on anything!
  ⚡  I like anchovies on pizza...
+ </ul>
 </div>
 
 <h4 align="center">You can find me:</h3>
