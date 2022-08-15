@@ -4,7 +4,7 @@
 <h1 align="center">My name is Kenneth Mei</h1>
 <h3 align="center">I am a Full Stack Software Engineer Currently Looking For Employment Opportunities</h3>
 
-<div align"center">
+<div align="center">
 My favorite language is Python and outside of programming, I love to lift weights!
 
 * 🌍  I'm based in New York
