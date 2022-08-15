@@ -6,7 +6,7 @@
 
 <h4 align="center">You can find me:</h3>
 <div align='center'>
-  <a href="https://www.linkedin.com/in/kenneth-mei//">
+  <a href="https://www.linkedin.com/in/kenneth-mei/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
