@@ -8,7 +8,7 @@ I am a Full Stack Software Engineer Currently Looking For Employment Opportuniti
 * 🖥️  See my portfolio at [https://github.com/kazziken](http://github.com/kazziken)
 * ✉️  You can contact me at [meikenneth321@gmail.com](mailto:meikenneth321@gmail.com)
 * 🚀  I'm currently working on [a weather app made with python](http://github.com/kazziken/weather-app)
-* 🧠  I'm learning Java
+* 🧠  I'm honing my data structure and algorithm
 * 🤝  I'm open to collaborating on any projects
 * ⚡  I enjoy lifting weights
 
