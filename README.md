@@ -1,15 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kenneth Mei
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kenneth
 ===================================================================================================================================
 
-I am a Full Stack Software Engineer Currently Looking For Employment Opportunities
+I'm a software engineer
 ----------------------------------------------------------------------------------
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [https://github.com/kazziken](http://github.com/kazziken)
-* ✉️  You can contact me at [meikenneth321@gmail.com](mailto:meikenneth321@gmail.com)
-* 🚀  I'm currently working on [a weather app made with python](http://github.com/kazziken/weather-app)
-* 🧠  I'm honing my data structure and algorithm
-* 🤝  I'm open to collaborating on any projects
+* ✉️  You can contact me at [kennmei95@gmail.com](mailto:kennmei95@gmail.com)
+* 🚀  I'm currently working @ FlexTrade Systems
+* 🤝  I'm open to collaborating on any projects as I enjoy a good side project
 * ⚡  I enjoy lifting weights
 
 ### Skills
